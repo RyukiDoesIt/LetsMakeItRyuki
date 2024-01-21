@@ -5,4 +5,4 @@ user = input("Give emoji: ")
 change = user.replace(":)", "🙂").replace(":(", "🙁")
 
 # Print o/p
-print(user)
+print(change)
