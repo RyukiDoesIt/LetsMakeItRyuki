@@ -1,4 +1,3 @@
 # LetsMakeRyuki
 My first repo.
-<br>
-Hope for consistency.
+<br> Hope for consistency.
