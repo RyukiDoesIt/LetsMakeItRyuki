@@ -1,3 +1,3 @@
 # LetsMakeRyuki
-<p> My first repo. </p>
+My first repo.
 <br> Hope for consistency.
