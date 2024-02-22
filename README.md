@@ -1,6 +1,8 @@
-# LetsMakeRyuki
-
-![Badge Hi Mom]
-
-My first repo.
-<br> Hope for consistency.
+<div align = center>
+  # LetsMakeRyuki
+  ![Badge Hi Mom]
+  My first repo.
+  
+  <br> 
+  
+  Hope for consistency.
