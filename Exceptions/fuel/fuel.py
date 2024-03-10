@@ -3,12 +3,11 @@ while True:
     try:
         # Taking input
         x = int(input("What's x? "))
+        # If ValueError is False
+        break
     except ValueError:
         # If ValueError is True
         print("x is not an integer!")
-    else:
-        # If ValueError is False
-        break
     
 # Print the variable
 print(f"x is {x}")
