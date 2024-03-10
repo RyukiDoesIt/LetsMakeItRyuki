@@ -5,6 +5,6 @@ try:
 except ValueError:
     # If ValueError is True
     print("x is not an integer!")
-
-# Printing output
-print(f"x is {x}")
+else:
+    # If ValueError is False
+    print(f"x is {x}")
