@@ -25,4 +25,5 @@ def percentage():
         except NameError:
             pass
 
-main()
+if __name__ == "__main__":
+    main()
