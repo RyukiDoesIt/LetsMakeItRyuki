@@ -1,3 +1,4 @@
+
 grocery_list = []
 counts = {}
 
@@ -19,3 +20,4 @@ for items in grocery_list:
 
 for item, count in counts.items():
     print(count, item)
+    
